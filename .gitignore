@@ -1,0 +1,10 @@
+*.metadata/
+*.settings/
+*.classpath
+*.project
+*target/
+*.tomcatplugin
+bin/
+*.class
+.recommenders/
+*logs/
